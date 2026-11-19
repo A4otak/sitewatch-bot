@@ -1,0 +1,5 @@
+aiogram>=3.13.0,<4
+aiohttp>=3.12.0,<4
+aiosqlite>=0.20.0,<1
+python-dotenv>=1.0.1,<2
+yarl>=1.17.0,<2
